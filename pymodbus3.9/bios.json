@@ -2,6 +2,6 @@
     "alexjunk": {
         "THEMIS_TAG": "themis:alpine3.20_emoncms11.9.11",
         "ADMIN_TAG": "admin:3.22_2025-10-14",
-        "TF_TAG": "tf_multiarch:ubuntu22.04_numpy1.26.4_tflite2.13.0_paho2.1.0_pymodbus3.11.3_pyfina0.0.7",
+        "TF_TAG": "tf_multiarch:ubuntu22.04_numpy1.26.4_tflite2.13.0_paho2.1.0_pymodbus3.11.3_pyfina0.0.7"
     }
 }
